@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nickelbolt.com/sitemap.xml
